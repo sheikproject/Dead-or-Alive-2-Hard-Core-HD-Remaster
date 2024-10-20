@@ -2,6 +2,8 @@
 ![](https://imgur.com/qPmCQ8i.png)
 HD Remaster of the Japan PS2 version of Dead or Alive 2 Hard*Core
 
+Using [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN?tab=readme-ov-file) and [4K-HDCube3](https://github.com/Venomalia/HDcube) to upscale the textures and sprites.
+
 [![GitHub release](https://img.shields.io/badge/release-v0.1-green.svg)](https://github.com/sheikproject/Dead-or-Alive-2-Hard-Core-HD-Remaster/releases/latest)
 
 Screenshots
@@ -16,4 +18,4 @@ Screenshots
 - PCSX2 Emulator
 
 # HOW TO INSTALL:
-Extract the contents of the .zip in `PCSX2 1.7.0\textures`
+Extract the `SLPS-25026` folder in `PCSX2\textures` and the `gamesettings` folder in the `PCSX2` folder.

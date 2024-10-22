@@ -12,6 +12,8 @@ Screenshots
 > 
 [![](https://imgur.com/uUlg7Cj.png)](https://imgsli.com/MzA5Nzc2 "Bio Lab")
 [![](https://imgur.com/RGDR0Im.png)](https://imgsli.com/MzA5ODIz "Ayane Costume 3")
+[![](https://imgur.com/lNJY1wm.png)](https://imgsli.com/MzEwNzA0 "Team Battle")
+[![](https://imgur.com/kipEU8c.png)](https://imgsli.com/MzEwNzA1 "Tina Costume 1")
 
 # YOU ONLY NEED:
 - A copy of the Japanese version of this game 
